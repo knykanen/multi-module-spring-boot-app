@@ -1,0 +1,27 @@
+# TEST 1
+# DEFAULT
+#test:
+#  value: parent
+#spring:
+#  profiles:
+#    active: api1
+#
+#
+#---
+#
+#spring:
+#  config:
+#    activate:
+#      on-profile: api1
+#test:
+#  value: parent-with-profile-api1
+
+
+
+
+
+
+# TEST 2
+#spring:
+#  profiles:
+#    include: api2

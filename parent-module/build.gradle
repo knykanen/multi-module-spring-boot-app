@@ -1,0 +1,8 @@
+dependencies {
+    implementation project(":api-1-module")
+    implementation project(":api-2-module")
+
+    implementation 'org.springframework.boot:spring-boot:3.2.2'
+    implementation 'org.springframework.boot:spring-boot-autoconfigure:3.2.2'
+
+}

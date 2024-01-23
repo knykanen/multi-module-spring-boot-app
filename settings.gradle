@@ -1,0 +1,6 @@
+rootProject.name = 'demo'
+
+include 'parent-module'
+include 'api-1-module'
+include 'api-2-module'
+

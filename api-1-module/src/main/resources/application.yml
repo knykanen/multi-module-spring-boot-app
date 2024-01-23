@@ -1,0 +1,6 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: api1
+test:
+  value: api1
